@@ -1,0 +1,20 @@
+p{
+    background-color: red;
+}
+
+.animLeft{
+    position: relative;
+}
+
+.animHeight{
+    background-color: darkcyan;
+    width: 400px;
+}
+.aniMulti{
+    background-color: black;
+    color: white;
+}
+
+.container{
+    display: flex;
+}
